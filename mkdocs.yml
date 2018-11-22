@@ -15,3 +15,5 @@ nav:
 
 repo_url: https://github.com/Blockchain-zju/zjubca.docs
 theme: readthedocs
+copyright: '浙江大学区块链协会'
+lang: ['jp']
