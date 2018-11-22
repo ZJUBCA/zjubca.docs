@@ -1,0 +1,17 @@
+site_name: ZJUBCA Documents
+nav:
+  - 首页: index.md
+  - 协会介绍: 
+    - 协会架构: info/structure.md
+    - 合作伙伴: info/partner.md
+  - 协会产品线:
+    - Wallet: products/wallet.md
+    - EOSToolkit: products/eostoolkit.md
+    - 共享计划: products/references.md
+  - Dapps:
+    - 介绍: dapps/index.md
+    - Ingreos: dapps/ingreos.md
+    - GirlGene: dapps/girlgene.md
+
+repo_url: https://github.com/Blockchain-zju/zjubca.docs
+theme: readthedocs
