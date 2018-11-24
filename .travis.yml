@@ -9,6 +9,7 @@ script: mkdocs build
 before-deploy:
   - git config --local user.name "yyh1102"
   - git config --local user.email "yyh951102@163.com"
+  - cp ./CNAME ./site/CNAME
 
 deploy:
   provider: pages
