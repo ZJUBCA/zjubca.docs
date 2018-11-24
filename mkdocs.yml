@@ -4,6 +4,10 @@ nav:
   - 协会介绍: 
     - 协会架构: info/structure.md
     - 合作伙伴: info/partner.md
+  - 学习资料:
+    - 起步: guide/getting_started.md
+    - 技术入门指南: guide/tech_guide.md
+    - 非技术入门指南: guide/economic_guide.md
   - 协会产品线:
     - Wallet: products/wallet.md
     - EOSToolkit: products/eostoolkit.md
@@ -12,8 +16,9 @@ nav:
     - 介绍: dapps/index.md
     - Ingreos: dapps/ingreos.md
     - GirlGene: dapps/girlgene.md
+    - DotA: dapps/DotA.md
 
 repo_url: https://github.com/Blockchain-zju/zjubca.docs
 theme: readthedocs
 copyright: '浙江大学区块链协会'
-lang: ['jp']
+lang: ['zh_CN']
