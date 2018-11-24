@@ -3,7 +3,8 @@ nav:
   - 首页: index.md
   - 协会介绍: 
     - 协会架构: info/structure.md
-    - 合作伙伴: info/partner.mdq
+    - 合作伙伴: info/partner.md
+    - 协会成就: info/achieve.md
   - 学习资料:
     - 起步: guide/getting_started.md
     - 技术入门指南: guide/tech_guide.md
