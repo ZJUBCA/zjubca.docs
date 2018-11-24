@@ -1,0 +1,16 @@
+language: python
+python:
+  - "3.6"
+
+install: pip install mkdocs mkdocs-material
+
+script: mkdocs build
+
+after_success:
+  - cd site
+  - git init
+  - git config user.name "yyh1102"
+  - git config user.email "yyh951102@163.com"
+  - git add --all .
+  - git commit -m "auto build and deploy"
+  - git push --force https://20d225f39af5cf9f90a0f92d43c896d16e6df04f@github.com:Blockchain-zju/blockchain-zju.github.io.gitt master
