@@ -15,9 +15,9 @@ nav:
     - 共享计划: products/references.md
   - Dapps:
     - 介绍: dapps/index.md
+    - DotA: dapps/DotA.md
     - Ingreos: dapps/ingreos.md
     - GirlGene: dapps/girlgene.md
-    - DotA: dapps/DotA.md
 
 repo_url: https://github.com/Blockchain-zju/zjubca.docs
 theme: 
