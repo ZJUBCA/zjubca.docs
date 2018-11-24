@@ -4,11 +4,8 @@ python:
 
 install: pip install mkdocs mkdocs-material
 
-script: mkdocs build
-
-before-deploy:
-  - git config --local user.name "yyh1102"
-  - git config --local user.email "yyh951102@163.com"
+script: 
+  - mkdocs build
   - cp ./CNAME ./site/CNAME
 
 deploy:
