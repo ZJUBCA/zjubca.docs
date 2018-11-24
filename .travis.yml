@@ -8,6 +8,8 @@ script:
   - mkdocs build
   - cp ./CNAME ./site/CNAME
 
+site_favicon: img/favicon.ico
+
 deploy:
   provider: pages
   repo: "Blockchain-zju/blockchain-zju.github.io"
