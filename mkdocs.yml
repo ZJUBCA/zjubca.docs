@@ -19,6 +19,7 @@ nav:
     - DotA: dapps/DotA.md
 
 repo_url: https://github.com/Blockchain-zju/zjubca.docs
-theme: readthedocs
+theme: 
+  name: 'material'
 copyright: '浙江大学区块链协会'
 lang: ['zh_CN']
