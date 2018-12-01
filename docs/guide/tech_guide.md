@@ -14,8 +14,8 @@
 
 - 应用层：
     - web相关技术：
-      - 前端: html/css/javascript。开发框架:react, react-native等。
-      - 后端: Node.js, jsp, python等。
+        - 前端: html/css/javascript。开发框架:react, react-native等。
+        - 后端: Node.js, jsp, python等。
     - 智能合约：C/C++, Solidity, Javascript等。
 
 ### 进阶
