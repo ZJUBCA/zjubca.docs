@@ -1,7 +1,8 @@
 site_name: ZJUBCA Documents
 nav:
-  - 首页: index.md
+  - 致协会成员的一封信: index.md
   - 协会介绍: 
+    - 协会简介: info/index.md
     - 协会架构: info/structure.md
     - 合作伙伴: info/partner.md
     - 协会成就: info/achieve.md
