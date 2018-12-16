@@ -52,5 +52,6 @@
     - [EOS合约开发官方文档](https://developers.eos.io/eosio-cpp/docs/introduction)
     - [EOS智能合约开发与源码解析](https://bihu.com/article/293974) 推荐。
 - [go-ethereum](https://github.com/ethereum/go-ethereum) 以太坊官方客户端
+    - **[用Go开发以太坊](https://goethereumbook.org/zh/)** 推荐
     - [以太坊wiki](https://github.com/ethereum/wiki/wiki)
     - [以太坊源码分析](https://blog.csdn.net/turkeycock/article/category/7669858)
