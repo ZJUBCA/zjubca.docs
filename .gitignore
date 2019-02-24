@@ -4,3 +4,4 @@ _templates/
 .idea/
 .vscode/
 site/
+node_modules/
