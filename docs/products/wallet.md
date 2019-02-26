@@ -2,7 +2,11 @@
 
 ZJUBCA.Wallet是由协会Wallet组自研的一款基于EOS区块链的移动端钱包。
 
-感谢[@awmleer](https://github.com/awmleer)的开发贡献。[代码仓库](https://github.com/Blockchain-zju/zjubca.wallet)。
+感谢[@lowesyang](https://github.com/yyh1102) [@awmleer](https://github.com/awmleer)的开发贡献。
+
+感谢花花(凌君华)对Logo与启动页的设计贡献。
+
+[代码仓库](https://github.com/Blockchain-zju/zjubca.wallet)。
 
 ## 架构总览
 ![钱包架构图](http://on-img.com/chart_image/5b5d86e2e4b0be50eac580fe.png)
