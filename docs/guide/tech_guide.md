@@ -30,6 +30,7 @@
 - [以太坊智能合约教程](https://ethfans.org/posts/101-noob-intro)
     - 以太坊私链搭建，自行Google或百度。
     - 智能合约实战：[简单投票合约](https://my.oschina.net/u/2275217/blog/1800103)
+- [精通以太坊](https://github.com/inoutcode/ethereum_book)
 
 #### 底层
 
