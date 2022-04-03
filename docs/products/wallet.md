@@ -8,9 +8,6 @@ ZJUBCA.Wallet是由协会Wallet组自研的一款基于EOS区块链的移动端�
 
 [代码仓库](https://github.com/Blockchain-zju/zjubca.wallet)。
 
-## 架构总览
-![钱包架构图](http://on-img.com/chart_image/5b5d86e2e4b0be50eac580fe.png)
-
 ## 模块详解
 ### 转账功能
 转账功能是钱包的基础功能，可实现基于eosio.token协议发行的token以及基于eosio.nft协议的非同质代币的查询、转账功能。
